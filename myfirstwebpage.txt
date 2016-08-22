@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lorem Ipsum</title>
+  </head>
+  <body>
+    <h1>Proin vulputate tempor diam eget commodo.</h1>
+    <hr>
+    <p>Mauris suscipit ut erat in auctor. Suspendisse commodo mauris at est feugiat, non molestie quam cursus. </p>
+    <p>Aenean consectetur consectetur condimentum. Morbi id mauris et augue ornare sodales a et magna.</p>
+    <p>Sed vitae commodo nulla, eu gravida lacus. Sed cursus placerat ornare. Fusce arcu quam, accumsan eu erat ac, vulputate bibendum eros.</p>
+
+    <ul>
+      <li>First Item</li>
+      <li>Second Item</li>
+      <li>Third Item</li>
+      <li>Fourth Item</li></ul>
+    </ul>
+    <p>Curabitur at ullamcorper urna.</p>
+    <br><br>
+    <a href="http://www.lipsum.com/" target="new">Go check out a lorem ipsum</a>
+    <hr>
+	<table>
+    	<tr>
+    		<th>NAME</th>
+        	<th>PHONE</th>
+    	</tr>
+      	<tr>
+        	<td>Bob Denver</td>
+        	<td>801-111-1111</td>
+      	</tr>
+      	<tr>
+        	<td>Sally Smith</td>
+        	<td>801-222-2222</td>
+      	</tr>
+    </table>
+    <hr>
+	<form name="myForm" action="#">
+    	NAME: <input type="text" name="name" />
+      	<br>
+      	PHONE: <input type="text" name="phone" />
+      	<br>
+      	AGE: <select name="age">
+        	<option value="under 25">Under 25</option>
+        	<option value="25-50">25-50</option>
+        	<option value="51-75">51-75</option>
+        	<option value="over 75">Over 75</option>
+      	</select>
+      	<br>
+      	<input type="submit" />
+    </form>
+  </body>
+</html>
